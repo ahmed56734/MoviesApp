@@ -6,5 +6,6 @@ package com.example.ahmed.mal_movies_app;
 
 public final  class KEYS {
 
-    public static final String MOVIES_API_KEY = "8da7b20e982e4969bdb63ad657026c6c";
+    // add your key here
+    public static final String MOVIES_API_KEY = "";
 }
